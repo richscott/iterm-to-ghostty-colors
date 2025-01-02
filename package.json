@@ -1,0 +1,12 @@
+{
+  "name": "iterm-to-ghostty-colors",
+  "version": "0.1.0",
+  "description": "Convert iterm2 profile colors to ghostty color defintions",
+  "type": "module",
+  "main": "convertcolors.js",
+  "author": "Rich Scott",
+  "license": "MIT",
+  "dependencies": {
+    "plist": "^3.1.0"
+  }
+}
